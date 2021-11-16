@@ -1,5 +1,6 @@
 {
   "name": "@vijaygenius123/sensitive-words",
+  "private": false,
   "version": "1.0.0",
   "description": "Filter out a list of sensitive words",
   "main": "build/index.js",
@@ -11,20 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vijaygenius123/sensetive-words.git"
+    "url": "git+https://github.com/vijaygenius123/sensitive-words.git"
   },
   "keywords": [
     "filter",
     "filtering",
-    "sensetive",
+    "sensitive",
     "words"
   ],
   "author": "Vijayaraghavan Sundararaman <vijaygenius123@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vijaygenius123/sensetive-words/issues"
+    "url": "https://github.com/vijaygenius123/sensitive-words/issues"
   },
-  "homepage": "https://github.com/vijaygenius123/sensetive-words#readme",
+  "homepage": "https://github.com/vijaygenius123/sensitive-words#readme",
   "devDependencies": {
     "babel-cli": "6.26.0",
     "babel-preset-latest": "6.24.1",
