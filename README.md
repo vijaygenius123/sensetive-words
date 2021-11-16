@@ -1,10 +1,10 @@
 # Example
 
 ```shell
-npm install sensitive-words
+npm install @vijaygenius123/sensitive-words
 ```
 ```javascript
-const {sensitiveWords} = require('sensitive-words')
+const {sensitiveWords} = require('@vijaygenius123/sensitive-words')
 // ES2015
 import {sensitiveWords} from 'sensitive-words'
 
